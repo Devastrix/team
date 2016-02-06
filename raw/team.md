@@ -17,6 +17,7 @@
 | Web Development | Shubham Bhendarkar | @codebhendi | bhendarkar.shubham@gmail.com |
 | Machine Learning | Anshul Anand | @anshul92101 | anshul92101@gmail.com |
 | Android App Development | Anurag rai | @rai16 | anurag16j@gmail.com |
+| Android App Development | Kumar Sanyam | @ksanyam | kumarsanyam05@gmail.com |
 
 ### Events Organization Team
 | Speciality | Name | Github Username | Email Id |
